@@ -9,3 +9,10 @@
 
 }
 
+#metaPanel {
+	font-size: smaller;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-color: #a5bdc6;
+	color: #85541d;
+}
+
